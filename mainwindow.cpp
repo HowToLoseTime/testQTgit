@@ -17,6 +17,7 @@ MainWindow::~MainWindow()
 void MainWindow::on_pushButton_2_clicked()
 {
     int u = 0;
+    u--;
     u++;
 }
 
