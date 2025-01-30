@@ -13,3 +13,10 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    int u = 0;
+    u++;
+}
+
