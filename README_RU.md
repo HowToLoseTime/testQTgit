@@ -27,23 +27,52 @@
 - Drag‑and‑drop создание правил  
 - Определение последовательности шагов  
 - Предпросмотр в реальном времени  
-- Импорт/экспорт конфигураций в JSON  
+- Импорт/экспорт конфигураций в JSON
+
+  <img width="986" height="707" alt="image" src="https://github.com/user-attachments/assets/3eb26ba0-383b-43dd-a65d-2f45dede7341" />
+
+  <img width="998" height="765" alt="image" src="https://github.com/user-attachments/assets/0c3eb791-1b96-4ead-9d96-11bc6a6f71ea" />
+
+  <img width="997" height="788" alt="image" src="https://github.com/user-attachments/assets/6679f7fd-b9ce-46b5-99c6-8382bc47fdbb" />
+
+  <img width="980" height="737" alt="image" src="https://github.com/user-attachments/assets/464110f2-6868-4e71-bf34-02568200c74c" />
+
+  <img width="1502" height="781" alt="image" src="https://github.com/user-attachments/assets/61536aba-e248-468f-9636-87315b0eb771" />
+
+
+
 
 ## ⚡ Продвинутая симуляция
 - Монте‑Карло моделирование  
 - Переменная динамика продаж  
 - Подробные метрики и сравнение сценариев  
 
+<img width="787" height="382" alt="image" src="https://github.com/user-attachments/assets/efafa83a-8b3e-427e-b5f7-fa56095aa12c" />
+
+
 ## 📈 Глубокая аналитика
 - Финансовые графики  
 - Анализ распределения призов  
 - История всех розыгрышей  
 
+<img width="872" height="621" alt="image" src="https://github.com/user-attachments/assets/3cea5674-8b73-400c-b548-e9e3c35d4c5a" />
+
+<img width="853" height="750" alt="image" src="https://github.com/user-attachments/assets/a0cd7745-5752-400e-8b68-534e6cab19af" />
+
+<img width="884" height="641" alt="image" src="https://github.com/user-attachments/assets/6c7d8d33-60de-4471-a0d1-3cf52174f057" />
+
+<img width="853" height="411" alt="image" src="https://github.com/user-attachments/assets/566aa8c9-9c5a-40ed-8354-74236acf0f35" />
+
+
+
 ## 🎯 Гибкость
 - Подходит для ЛЮБЫХ типов лотерей  
 - Максимально настраиваемая логика  
 - Выигрышные условия на JavaScript  
-- Поддержка многошаговых розыгрышей  
+- Поддержка многошаговых розыгрышей
+
+  <img width="255" height="480" alt="image" src="https://github.com/user-attachments/assets/834b3a9a-82d5-4e5f-8f73-276ca5411d75" />
+
 
 ---
 
